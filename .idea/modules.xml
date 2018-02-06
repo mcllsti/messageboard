@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wpd2-messageboard.iml" filepath="$PROJECT_DIR$/wpd2-messageboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messageboard.iml" filepath="$PROJECT_DIR$/messageboard.iml" />
     </modules>
   </component>
 </project>

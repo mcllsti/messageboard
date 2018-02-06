@@ -13,6 +13,16 @@ public class MessageBoard {
         topics = new ArrayList <Topic>();
     }
 
+    public String getmBTitle()
+    {
+        return mBTitle;
+    }
+
+    public List getTopicList()
+    {
+        return topics;
+    }
+
     public void addTopic(Topic tp){
         topics.add(tp);
     }
